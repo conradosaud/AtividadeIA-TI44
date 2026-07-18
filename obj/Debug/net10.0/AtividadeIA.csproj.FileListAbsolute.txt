@@ -1,0 +1,5 @@
+C:\Users\conrado.sasaud\source\repos\AtividadeIA\AtividadeIA\obj\Debug\net10.0\AtividadeIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conrado.sasaud\source\repos\AtividadeIA\AtividadeIA\obj\Debug\net10.0\AtividadeIA.AssemblyInfoInputs.cache
+C:\Users\conrado.sasaud\source\repos\AtividadeIA\AtividadeIA\obj\Debug\net10.0\AtividadeIA.AssemblyInfo.cs
+C:\Users\conrado.sasaud\source\repos\AtividadeIA\AtividadeIA\obj\Debug\net10.0\AtividadeIA.csproj.CoreCompileInputs.cache
+C:\Users\conrado.sasaud\source\repos\AtividadeIA\AtividadeIA\obj\Debug\net10.0\AtividadeIA.sourcelink.json
